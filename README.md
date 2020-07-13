@@ -23,6 +23,9 @@ then I used this analysis to create a custom portfolio of stocks *(TGT ,TJX, WMT
 ![read-from-csv](Images/read-data-1.png)
 
 2. Detected and removed null values.
+
+
+
  ![null-values](Images/remove-null.png)
 
 3. Removed dollar signs from the numeric values and converted the data types as needed.
