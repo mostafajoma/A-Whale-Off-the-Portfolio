@@ -40,9 +40,12 @@ then I used this analysis to create a custom portfolio of stocks *(TGT ,TJX, WMT
 ![fixed-data](Images/sp500-without.png)
 
 4. Converted the S&P 500 closing prices to daily returns.
+
+
 ![sp500-returns](Images/sp500-daily-return.png)
 
 5. Concated `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
+
 
   ![returns-dataframe.png](Images/returns-dataframe.png)
   
@@ -55,6 +58,8 @@ Analyzed the data to see if any of the portfolios outperform the stock market (i
 #### Performance Analysis
 
 1. Calculated and plotted cumulative returns. checked if any portfolio outperform the S&P 500.
+
+
 ![performance](Images/performance.png)
 
 
