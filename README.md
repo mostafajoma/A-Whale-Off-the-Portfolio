@@ -44,7 +44,7 @@ then I used this analysis to create a custom portfolio of stocks *(TGT ,TJX, WMT
 
 ![sp500-returns](Images/sp500-daily-return.png)
 
-5. Concated `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
+5. concatenated `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
 
 
   ![returns-dataframe.png](Images/returns-dataframe.png)
